@@ -31,7 +31,7 @@ A high-performance Todo application built with Go 1.26, Fiber v3, and PostgreSQL
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:bayazidsustami/golang-todo-fullstack.git
    cd go-fiber-crud
    ```
 
